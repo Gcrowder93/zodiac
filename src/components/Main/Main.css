@@ -1,0 +1,10 @@
+main {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  /* margin-bottom: 10px; */
+  background-size: cover;
+  height: 870px;
+  align-content: flex-start;
+  position: relative;
+}
